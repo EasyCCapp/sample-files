@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "media/sunset.png",
+      "dest": "examples/media/sunset.png",
+      "sha256": "884de5233500c39f3f100f57db9cc5b06c8edb590cb7470ab7a1e38849e75925",
+      "size": 25851,
+      "license": "Generated (CC0)",
+      "description": "Colorful gradient image"
+    },
+    {
+      "path": "media/piano-loop.wav",
+      "dest": "examples/media/piano-loop.wav",
+      "sha256": "630c9ff81193f47e47748df9b41b7e0411247645134b65f67c128082792c2780",
+      "size": 88244,
+      "license": "Generated (CC0)",
+      "description": "2-second A440 sine tone"
+    },
+    {
+      "path": "media/intro-clip.mp4",
+      "dest": "examples/media/intro-clip.mp4",
+      "sha256": "17ba1d254abd606efff86ca2bbdb9be7709a88c30c047530a219900ea099042a",
+      "size": 152,
+      "license": "Generated (CC0)",
+      "description": "Minimal MP4 container"
+    },
+    {
+      "path": "design/sample-font.ttf",
+      "dest": "examples/design/sample-font.ttf",
+      "sha256": "f56f0d851bb992649374b2fdde4eb87fe51ffde92d7da3ea3b464c979de79cbc",
+      "size": 303545,
+      "license": "SIL Open Font License",
+      "description": "Inter Regular font"
+    },
+    {
+      "path": "design/logo-layers.psd",
+      "dest": "examples/design/logo-layers.psd",
+      "sha256": "c193890df08bf18e186320232ee20551c963eca87b4e2cb38d1c2451df55f19e",
+      "size": 90040,
+      "license": "Generated (CC0)",
+      "description": "200x150 gradient PSD"
+    },
+    {
+      "path": "design/cube.stl",
+      "dest": "examples/design/cube.stl",
+      "sha256": "acdce971fee2c11dc75723d98673327e1cf6de5a50f6946105fb306e63154178",
+      "size": 684,
+      "license": "Generated (CC0)",
+      "description": "Unit cube 3D model"
+    },
+    {
+      "path": "design/robot.gltf",
+      "dest": "examples/design/robot.gltf",
+      "sha256": "2a6372a54e7f72d8bf2d7bac2e695142861fd152a80523d32c420e3fb5c69e77",
+      "size": 1531,
+      "license": "Generated (CC0)",
+      "description": "Colored triangle glTF"
+    },
+    {
+      "path": "data/inventory.sqlite",
+      "dest": "examples/data/inventory.sqlite",
+      "sha256": "6e7b2ac7664087320519f9a97be52c23dd47b86db9f00642f1fb761a4e92406a",
+      "size": 12288,
+      "license": "Generated (CC0)",
+      "description": "Products and orders database"
+    },
+    {
+      "path": "documents/quarterly-report.epub",
+      "dest": "examples/documents/quarterly-report.epub",
+      "sha256": "35eb139258b7238f8b13ec646e44c470a7b1e7224d5ffde17ddf3a379eda5440",
+      "size": 3472,
+      "license": "Generated (CC0)",
+      "description": "Sample quarterly report ebook"
+    },
+    {
+      "path": "archives/project-files.zip",
+      "dest": "examples/archives/project-files.zip",
+      "sha256": "a6253ad69fd66a140a51d058da18c8dc826fc741d21414400a750ecbf2949b78",
+      "size": 689,
+      "license": "Generated (CC0)",
+      "description": "ZIP with README, notes, config, and data"
+    }
+  ]
+}
