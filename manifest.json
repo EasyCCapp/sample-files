@@ -20,10 +20,10 @@
     {
       "path": "media/intro-clip.mp4",
       "dest": "examples/media/intro-clip.mp4",
-      "sha256": "d16fe62e099c8e55249fe297b303556e77af9816af3041e9dfc9dcdcd49e139a",
-      "size": 731,
-      "license": "Generated (CC0)",
-      "description": "Minimal MP4 container"
+      "sha256": "77145c94c11f3754207499158df22406e1fe7635553c1c86dc5e881dfeb32016",
+      "size": 991017,
+      "license": "CC-BY 3.0 (Big Buck Bunny, Blender Foundation)",
+      "description": "10-second Big Buck Bunny clip (360p)"
     },
     {
       "path": "design/sample-font.ttf",
