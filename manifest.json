@@ -28,8 +28,8 @@
     {
       "path": "design/sample-font.ttf",
       "dest": "examples/design/sample-font.ttf",
-      "sha256": "f56f0d851bb992649374b2fdde4eb87fe51ffde92d7da3ea3b464c979de79cbc",
-      "size": 303545,
+      "sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82",
+      "size": 411640,
       "license": "SIL Open Font License",
       "description": "Inter Regular font"
     },
