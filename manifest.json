@@ -52,10 +52,10 @@
     {
       "path": "design/robot.gltf",
       "dest": "examples/design/robot.gltf",
-      "sha256": "2a6372a54e7f72d8bf2d7bac2e695142861fd152a80523d32c420e3fb5c69e77",
-      "size": 1531,
+      "sha256": "7f6e316bcb7bcb9dfae9e5b3009156681ea4ef1430356e6a670b0624751b2c28",
+      "size": 3731,
       "license": "Generated (CC0)",
-      "description": "Colored triangle glTF"
+      "description": "Simple 3D house model"
     },
     {
       "path": "data/inventory.sqlite",
