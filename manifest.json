@@ -104,6 +104,14 @@
       "description": "Annual budget spreadsheet",
       "sha256": "52cd422537f9a45f6107508b8f8d6b2784dadc9066d46c50a3b4775bc12c77be",
       "size": 2154
+    },
+    {
+      "path": "documents/sample-report.pdf",
+      "dest": "examples/documents/sample-report.pdf",
+      "sha256": "593041988f696f7cc665aa2759449122df15003ae7e9cbb1e6cf0974c4690a1f",
+      "size": 966,
+      "license": "Generated (CC0)",
+      "description": "Sample PDF report"
     }
   ]
 }
