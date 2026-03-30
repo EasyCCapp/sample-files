@@ -20,8 +20,8 @@
     {
       "path": "media/intro-clip.mp4",
       "dest": "examples/media/intro-clip.mp4",
-      "sha256": "17ba1d254abd606efff86ca2bbdb9be7709a88c30c047530a219900ea099042a",
-      "size": 152,
+      "sha256": "d16fe62e099c8e55249fe297b303556e77af9816af3041e9dfc9dcdcd49e139a",
+      "size": 731,
       "license": "Generated (CC0)",
       "description": "Minimal MP4 container"
     },
