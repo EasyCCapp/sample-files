@@ -80,6 +80,30 @@
       "size": 689,
       "license": "Generated (CC0)",
       "description": "ZIP with README, notes, config, and data"
+    },
+    {
+      "path": "documents/team-update.docx",
+      "dest": "examples/documents/team-update.docx",
+      "license": "Generated (CC0)",
+      "description": "Sample Word document with team update",
+      "sha256": "f9fe65e3f3e326cc087b5f0b0e8ad8cf0aa02156d2c1d95198f4d408afc23095",
+      "size": 1333
+    },
+    {
+      "path": "documents/company-overview.pptx",
+      "dest": "examples/documents/company-overview.pptx",
+      "license": "Generated (CC0)",
+      "description": "3-slide company overview presentation",
+      "sha256": "989a3c4041c161ff9360dfb2c28c4abe96785b89c82ee9113615d0087cf21c63",
+      "size": 3147
+    },
+    {
+      "path": "documents/annual-budget.xlsx",
+      "dest": "examples/documents/annual-budget.xlsx",
+      "license": "Generated (CC0)",
+      "description": "Annual budget spreadsheet",
+      "sha256": "52cd422537f9a45f6107508b8f8d6b2784dadc9066d46c50a3b4775bc12c77be",
+      "size": 2154
     }
   ]
 }
