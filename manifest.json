@@ -50,8 +50,8 @@
       "description": "Unit cube 3D model"
     },
     {
-      "path": "design/robot.gltf",
-      "dest": "examples/design/robot.gltf",
+      "path": "design/house.gltf",
+      "dest": "examples/design/house.gltf",
       "sha256": "7f6e316bcb7bcb9dfae9e5b3009156681ea4ef1430356e6a670b0624751b2c28",
       "size": 3731,
       "license": "Generated (CC0)",
